@@ -8,5 +8,12 @@ body {
     width: 5%;
     border-width: 5px;
     }
+hr{
+border-style: dotted none none none;
+border-color: grey
+width: 5%;
+border-width: 5px;
+}
+
     
     
